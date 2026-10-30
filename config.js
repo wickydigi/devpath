@@ -6,6 +6,6 @@
    signing in, saving your own progress, and listing learners.
    Leave them empty to run DevPath without accounts. */
 window.DEVPATH_CLOUD = {
-  url: "",
-  key: ""
+  url: "https://akwgingpgrsumgltpwcs.supabase.co",
+  key: "sb_publishable_WelUNXTghUy9u6-HjNEBng_bExpSST6"
 };
